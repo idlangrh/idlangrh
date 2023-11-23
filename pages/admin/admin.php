@@ -15,20 +15,19 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="../../css/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" href="../../css/index1.css">
+    <link rel="stylesheet" type="text/css" href="../../css/index.css">
     <link rel="stylesheet" type="text/css" href="../../fontawesome/css/all.min.css">
 
-    <title>ARLA THRIFT SHOP</title>
+    <title>IDL THRIFT</title>
   </head>
   <body>
 
   <!-- Jumbotron -->
       <div class="jumbotron jumbotron-fluid text-center">
         <div class="container">
-          <h1 class="display-4"><span class="font-weight-bold">ARLA THRIFT SHOP</span></h1>
+          <h1 class="display-4"><span class="font-weight-bold">IDL THRIFT</span></h1>
           <hr>
-          <p class="lead font-weight-bold">Silahkan Belanja Sesuai Keinginan Anda <br> 
-          Enjoy Your Shopping</p>
+          <p class="lead font-weight-bold"> If You Can't Stop Thinking About It <br> BUY IT.....</p>
         </div>
       </div>
   <!-- Akhir Jumbotron -->
@@ -36,7 +35,7 @@
   <!-- Navbar -->
       <nav class="navbar navbar-expand-lg  bg-dark">
         <div class="container">
-        <a class="navbar-brand text-white" href="admin.php"><strong>ARLA</strong> THRIFT SHOP</a>
+        <a class="navbar-brand text-white" href="admin.php"><strong>IDL</strong> THRIFT </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -47,7 +46,7 @@
               <a class="nav-link mr-4" href="admin.php">HOME</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link mr-4" href="daftar_menu.php">DAFTAR MENU</a>
+              <a class="nav-link mr-4" href="daftar_menu.php"> DAFTAR KATALOG</a>
             </li>
             <li class="nav-item">
               <a class="nav-link mr-4" href="pesanan.php">PESANAN</a>
@@ -64,11 +63,15 @@
   <!-- Menu -->    
       <div class="container">
         <div class="judul text-center mt-5">
-          <h3 class="font-weight-bold">ARLA THRIFT SHOP</h3>
-          <h5>Jl. Sepakat II NO.131, Bansir Darat, Kec.Pontianak Tenggara, Kota Pontianak
-          <br>Buka Jam <strong>10:00 - 22:00</strong></h5>
+          <h3 class="font-weight-bold">IDL THRIFT </h3>
+          <h5>
+            <br> Alamat :<strong>Komplek lantang tipo no B29, Kec. Sungai Raya Kab.Kubu Raya, Kalimantan Barat </strong>
+            <br>Buka:<strong>10.00 – 22.00 WIB</strong>
+            <br>Since :<strong>2022 – now</strong> 
+            <br>ABOUT US : 
+            <br>IDL Thrift berdiri sejak tahun 2022 yang menyediakan sebuah produk produk fashion yang terjangkau bagi masyarakat sekitar. IDL Thrift ini produk fashion berupa sweater crewneck, hoodie, kaos, kemeja, blouse, dress, celana, dan lain-lain. Produk yang dijual merupakan barang dari ball yang telah disortir sebelum dijual. IDL Thrift ini terletak di Komplek lantang tipo no B29, Kec. Sungai Raya Kab.Kubu Raya, Kalimantan Barat .
+          </h5>
         </div>
-
       </div>
   <!-- Akhir Menu -->
 

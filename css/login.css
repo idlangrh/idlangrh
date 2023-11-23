@@ -1,11 +1,28 @@
 .container {
-	width: 30%;
-	margin-top: 10%;
-	box-shadow: 0 3px 20px rgba(0,0,0,0.4);
-	padding: 40px;
-	border-radius: 10px;
+    width: 30%;
+    margin-top: 10%;
+    box-shadow: 0 3px 20px rgba(0, 0, 0, 0.4);
+    padding: 40px;
+    border-radius: 10px;
+    background-color: #fff; /* Warna latar belakang menjadi putih */
+    color: #000; /* Warna teks menjadi hitam */
+    text-align: center; /* Pusatkan teks */
 }
- 
+
 button {
-	width: 49%;
+    width: 49%;
+}
+
+.logo {
+    margin-bottom: 20px; /* Jarak antara logo dan form */
+}
+
+/* Tambahkan properti warna untuk teks di dalam tombol */
+button {
+    color: #fff;
+}
+
+/* Gaya tambahan, misalnya, atur warna latar belakang tombol */
+button:hover {
+    background-color: #000;
 }

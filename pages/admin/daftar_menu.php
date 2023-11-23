@@ -15,19 +15,18 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="../../css/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" href="../../css/index1.css">
+    <link rel="stylesheet" type="text/css" href="../../css/index.css">
     <link rel="stylesheet" type="text/css" href="../../fontawesome/css/all.min.css">
 
-    <title>ARLA THRIFT SHOP</title>
+    <title>IDL THRIFT</title>
   </head>
   <body>
   <!-- Jumbotron -->
       <div class="jumbotron jumbotron-fluid text-center">
         <div class="container">
-          <h1 class="display-4"><span class="font-weight-bold">ARLA THRIFT SHOP</span></h1>
+          <h1 class="display-4"><span class="font-weight-bold">IDL THRIFT</span></h1>
           <hr>
-          <p class="lead font-weight-bold">Silahkan Beli Sesuai Selera Anda <br> 
-          Enjoy Your Shopping</p>
+          <p class="lead font-weight-bold">If You Can't Stop Thinking About It <br> BUY IT.....</p>
         </div>
       </div>
   <!-- Akhir Jumbotron -->
@@ -35,7 +34,7 @@
   <!-- Navbar -->
       <nav class="navbar navbar-expand-lg  bg-dark sticky-top">
         <div class="container">
-        <a class="navbar-brand text-white" href="admin.php"><strong>ARLA</strong> THRIFT SHOP</a>
+        <a class="navbar-brand text-white" href="admin.php"><strong>IDL</strong> THRIFT </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -46,7 +45,7 @@
               <a class="nav-link mr-4" href="admin.php">HOME</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link mr-4" href="daftar_menu.php">KATALOG</a>
+              <a class="nav-link mr-4" href="daftar_menu.php">DAFTAR KATALOG</a>
             </li>
             <li class="nav-item">
               <a class="nav-link mr-4" href="pesanan.php">PESANAN</a>

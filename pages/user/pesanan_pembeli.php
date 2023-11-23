@@ -23,21 +23,20 @@ if(empty($_SESSION["pesanan"]) OR !isset($_SESSION["pesanan"]))
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="../../css/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" href="../../css/index1.css">
+    <link rel="stylesheet" type="text/css" href="../../css/index.css">
     <link rel="stylesheet" type="text/css" href="../../fontawesome/css/all.min.css">
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.css">
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.21/css/dataTables.bootstrap4.min.css">
 
-    <title>ARLA THRIFT SHOP</title>
+    <title>IDL THRIFT </title>
   </head>
   <body>
   <!-- Jumbotron -->
       <div class="jumbotron jumbotron-fluid text-center">
         <div class="container">
-          <h1 class="display-4"><span class="font-weight-bold">BAKSO SOLO BARU</span></h1>
+          <h1 class="display-4"><span class="font-weight-bold">IDL THRIFT</span></h1>
           <hr>
-          <p class="lead font-weight-bold">Silahkan Pesan Menu Sesuai Keinginan Anda <br> 
-          Enjoy Your Meal</p>
+          <p class="lead font-weight-bold">If You Can't Stop Thinking About It <br> BUY IT.....</p>
         </div>
       </div>
   <!-- Akhir Jumbotron -->
@@ -45,7 +44,7 @@ if(empty($_SESSION["pesanan"]) OR !isset($_SESSION["pesanan"]))
   <!-- Navbar -->
       <nav class="navbar navbar-expand-lg  bg-dark">
         <div class="container">
-        <a class="navbar-brand text-white" href="user.php"><strong>Bakso</strong> Solo Baru</a>
+        <a class="navbar-brand text-white" href="user.php"><strong>ARLA</strong> THRIFT SHOP</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -156,28 +155,6 @@ if(empty($_SESSION["pesanan"]) OR !isset($_SESSION["pesanan"]))
     </div>
     
   <!-- Akhir Menu -->
-
-  <!-- Awal Footer -->
-      <hr class="footer">
-      <div class="container">
-        <div class="row footer-body">
-          <div class="col-md-6">
-          <div class="copyright">
-            <strong>Copyright</strong> <i class="far fa-copyright"></i> 2020 -  Designed by Alfirdaus&Rinaldo</p>
-          </div>
-          </div>
-
-          <div class="col-md-6 d-flex justify-content-end">
-          <div class="icon-contact">
-          <label class="font-weight-bold">Follow Us </label>
-          <a href="#"><img src="../../images/icon/fb.png" class="mr-3 ml-4" data-toggle="tooltip" title="Facebook"></a>
-          <a href="#"><img src="../../images/icon/ig.png" class="mr-3" data-toggle="tooltip" title="Instagram"></a>
-          <a href="#"><img src="../../images/icon/twitter.png" class="" data-toggle="tooltip" title="Twitter"></a>
-        </div>
-          </div>
-        </div>
-      </div>
-  <!-- Akhir Footer -->
 
 
 

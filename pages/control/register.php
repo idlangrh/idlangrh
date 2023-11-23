@@ -63,7 +63,6 @@
           <select id="sts" class="form-control" name="status">
             <option selected>Pilih...</option>
             <option value="user">User</option>
-            <option value="admin">Admin</option>
           </select>
         </div>
       </div>     
